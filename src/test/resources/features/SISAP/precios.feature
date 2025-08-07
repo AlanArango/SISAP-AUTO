@@ -15,6 +15,7 @@ Característica: Ingreso Pagina SISAP Precios
     Y damos click al check de selecionar todas las Variedades
     Y selecionamos la Variedad "<Variedad>"
     Y damos click al boton Buscar
+
     Ejemplos:
       | ciudad   | tipoMercado | PeriodoTiempo | Fecha Inicio | Fecha Final | Producto | Variedad                   |
       | AMAZONAS | Minorista   | Diario        | 19/08/2024   | 19/09/2024  | ACEITE   | ACEITE ALSOL BALDE X 20 LT |
