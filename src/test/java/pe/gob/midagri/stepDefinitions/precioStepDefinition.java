@@ -10,7 +10,6 @@ public class precioStepDefinition {
     @Y("ingreso SISAP Precio")
     public void ingresoSISAPPrecio() {
         step.clickBotonIngresar();
-
     }
 
     @Y("damos click al check de Todas las ciudades")
