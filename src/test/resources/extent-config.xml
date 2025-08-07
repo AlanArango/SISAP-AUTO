@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<extentreports>
+    <configuration>
+        <!-- report theme -->
+
+        <!-- standard, dark -->
+
+        <theme>dark</theme>
+        <!-- document encoding -->
+
+        <!-- defaults to UTF-8 -->
+
+        <encoding>UTF-8</encoding>
+        <!-- protocol for script and stylesheets -->
+
+        <!-- defaults to https -->
+
+        <protocol>http</protocol>
+        <!-- title of the document -->
+        <documentTitle>Extent</documentTitle>
+        <!-- report name - displayed at top-nav -->
+
+        <reportName>Grasshopper Report</reportName>
+        <!-- location of charts in the test view -->
+
+        <!-- top, bottom -->
+
+        <testViewChartLocation>bottom</testViewChartLocation>
+        <!-- custom javascript -->
+
+        <js>
+            console.log("iniciamos esta vaina");
+
+            <![CDATA[
+
+
+    ]]>
+        </js>
+        <!-- custom styles -->
+        <css>
+            <![CDATA[
+
+[title="AFTER_STEP"]>span{display:none}
+.logo {
+    background-image: url('https://qsias.mimp.gob.pe/assets/img/logo_mimp.jpg') !important;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.header .vheader .nav-logo {
+    width: 400px;
+}
+
+.step.pass-bg>div {
+    color: orange;
+}
+
+.badge-primary {
+    background-color: #dd1b3cd1;
+}
+]]>
+        </css>
+    </configuration>
+</extentreports>

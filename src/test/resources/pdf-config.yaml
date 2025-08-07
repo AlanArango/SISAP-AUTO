@@ -1,0 +1,65 @@
+passColor: 10d64f
+failColor: ea4848
+skipColor: a89132
+displayFeature: true
+displayScenario: true
+displayDetailed: true
+displayExpanded: true
+
+summaryConfig:
+  title: Reporte Automatizacion del SISAP
+  dataBackgroundColor: 4F0CC8
+  titleColor: FF0000
+  dateColor: 969696
+  timeColor: 000000
+  dial:
+    featureRanges: 60 95
+    scenarioRanges: 70 90
+    stepRanges: 75 85
+    badColor: ea4848
+    averageColor: edf548
+    goodColor: 35f33e
+
+detailedFeatureConfig:
+  featureNameColor: FF0000
+  startEndTimeColor: 000000
+  tagColor: 404040
+  dataHeaderColor: FFFFFF
+  dataBackgroundColor: 404040
+  totalColor: 0000FF
+  durationColor: FFFFFF
+  durationBackgroundColor: 404040
+
+detailedScenarioConfig:
+  featureNameColor: 404040
+  scenarioNameColor: FF0000
+  startEndTimeColor: 000000
+  tagColor: 404040
+  dataHeaderColor: FFFFFF
+  dataBackgroundColor: 404040
+  totalColor: 0000FF
+  durationColor: FFFFFF
+  durationBackgroundColor: 404040
+  stepChartBarColor: 7f32a8
+
+detailedStepHookConfig:
+  stepTextColor: FFFFFF
+  stepBackgroundColor: 16cb10
+  hookTextColor: FFFFFF
+  hookBackgroundColor: FFFFFF
+  durationColor: f58a13
+  errorMsgColor: f51313
+  logMsgColor: 9b7614
+
+
+featureConfig:
+  totalColor: FF0000
+  durationColor: FF0000
+
+scenarioConfig:
+  totalColor: FF0000
+  durationColor: FF0000
+
+
+
+
