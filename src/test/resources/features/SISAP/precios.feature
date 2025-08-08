@@ -19,3 +19,4 @@ Característica: Ingreso Pagina SISAP Precios
     Ejemplos:
       | ciudad   | tipoMercado | PeriodoTiempo | Fecha Inicio | Fecha Final | Producto | Variedad                   |
       | AMAZONAS | Minorista   | Diario        | 19/08/2024   | 19/09/2024  | ACEITE   | ACEITE ALSOL BALDE X 20 LT |
+      | AMAZONAS | Minorista   | Mensual        | ENE 2025   | ENE 2025 | ACEITE   | ACEITE ALSOL BALDE X 20 LT |
