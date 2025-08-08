@@ -16,6 +16,7 @@ Característica: Ingreso Pagina SISAP Abastecimiento
     Y damos click al check de selecoinar todas las regiones
     Y selecionamos la Procedencia "<Procedencia>"
     Y damos click al boton Buscar
+
     Ejemplos:
       | PeriodoTiempo   | Fecha Inicio       | Fecha Final     |mercado                            |Producto |Variedad                           |Procedencia|
       | Mensual          | ENE 2025        |  ENE 2025    | GRAN MERCADO MAYORISTA DE LIMA    | ACEITE  | ACEITE ALSOL BALDE X 20 LT        |ACOBAMBA   |
