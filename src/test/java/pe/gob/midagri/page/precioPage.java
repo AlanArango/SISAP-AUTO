@@ -18,7 +18,7 @@ public class precioPage {
     @FindBy(xpath = "//*[@id=\"RegionCheckbox\"]")
     public WebElement chboxRegion;
 
-    @FindBy(xpath = "//*[@id=\"pn_id_11\"]")
+    @FindBy(xpath = "//*[@id=\"pn_id_13\"]")
     public WebElement selectorCiudad;
 
 

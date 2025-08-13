@@ -13,7 +13,7 @@ import org.junit.runner.RunWith;
                 "html:target/simpleReport.html",
                 "com.aventstack.extentreports.cucumber.adapter.ExtentCucumberAdapter:"},
         stepNotifications = true,
-        tags = "@InicioAbastecimiento"
+        tags = "@InicioPrecio"
 
 )
 
