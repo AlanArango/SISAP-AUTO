@@ -20,7 +20,7 @@ Toda la instalacion sera gestionada por MAVEN
 
 
 ## License
-Todos los derechos al autor  ALAN OMAR H. con colaboracion de Huarisama
+Todos los derechos al autor  ALAN OMAR ARANGO HINOSTROZA
 
 ## Project status
 En desarrollo
